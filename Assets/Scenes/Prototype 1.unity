@@ -703,6 +703,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
   speed: 25
+  turnSpeed: 1
 --- !u!54 &517981893
 Rigidbody:
   m_ObjectHideFlags: 0
